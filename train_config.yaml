@@ -1,0 +1,9 @@
+# train_config.yaml
+
+epochs: 12
+batch_size: 32
+learning_rate: 0.0005
+margin: 0.6
+hard_negative: true
+weight_decay: 0.0001
+use_scheduler: true
