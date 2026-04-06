@@ -1,4 +1,4 @@
-# Signature Verification with Triplet Loss
+# Signature Verification using Simaese Neural Networks with Triplet Loss
 
 This project implements an automated signature verification system using a Siamese network architecture with a ResNet50 backbone, trained using Triplet Loss.
 
