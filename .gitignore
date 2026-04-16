@@ -29,6 +29,11 @@ ENV/
 .vscode/
 .idea/
 
+# Secrets — NEVER commit these
+awspasswords.txt
+*.pem
+.env
+
 # Project Specific
 .gradio/
 data/gpds/
