@@ -1,4 +1,4 @@
-# Signature Verification using Siamese Neural Networks with Triplet Loss
+# SigForge - Signature Verification using Siamese Neural Networks with Triplet Loss
 
 This project implements an automated signature verification system using a Siamese network architecture with a ResNet50 backbone, trained using Triplet Loss.
 
